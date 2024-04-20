@@ -1,0 +1,5 @@
+1001,John Doe,123 Main St,Engineer,555-1234,500.00
+1002,Jane Smith,456 Elm St,Teacher,555-5678,750.00
+1003,Bob Johnson,789 Oak St,Doctor,555-9012,1000.00
+1098,Besma,boumerdes,profession,2344,98,00
+1077,hasna,boumerdes,proff,23,32,00

@@ -1,0 +1,3 @@
+1,Des_A,Category_A,4
+2,Des_B,Category_B,3
+3,Des_C,Category_C,3

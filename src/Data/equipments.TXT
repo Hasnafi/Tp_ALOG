@@ -1,0 +1,9 @@
+101,1,sorti
+102,2,sorti
+103,3,sorti
+104,1,hors-service
+105,2,disponible
+106,1,disponible
+107,3,hors-service
+108,3,hors-service
+112,1,disponible
